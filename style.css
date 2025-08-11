@@ -34,7 +34,7 @@ h3 {
 a:link {
   font-weight: bold;
   text-decoration: none;
-  color: #b7a5df;
+  color: hsl(259, 88%, 32%);
 }
 a:visited {
   font-weight: bold;
